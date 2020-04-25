@@ -31,7 +31,7 @@
             </head>
             <body>
                 
-                    <h2 style=text-align:center; font-family:calibri;> Data Pemantaun Covid19 Wilayah Jawa Barat </h2>
+                    <h2 style=text-align:center; font-family:calibri;> Data Pemantaun Covid19 Wilayah  $wilayah </h2>
                     <h2 style=text-align:center> Per $waktu </h2>
                     <h2 style=text-align:center> $operator / $nim </h2>
                     <br>
