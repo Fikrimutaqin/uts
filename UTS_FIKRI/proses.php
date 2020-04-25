@@ -32,8 +32,8 @@
             <body>
                 
                     <h2 style=text-align:center; font-family:calibri;> Data Pemantaun Covid19 Wilayah Jawa Barat </h2>
-                    <h2 style=text-align:center> Per 25-04-20 | 07:00:15 </h2>
-                    <h2 style=text-align:center> Fikri Mutaqin / 171011401487 </h2>
+                    <h2 style=text-align:center> Per $waktu </h2>
+                    <h2 style=text-align:center> $operator / $nim </h2>
                     <br>
                     <hr>
                     <br>
